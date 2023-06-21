@@ -13,19 +13,19 @@ Welcome to our Resume Builder Website! Our website allows users to easily create
 Here are some screenshots of the project to give you an idea of its features and functionality:
 
 ###### Home Page
-![Home Page]()
+![Home Page](https://github.com/dexterous17/Quick-resume/blob/a3c911622795632ad3e954bc54faea18e0109cd3/Screenshot%202023-06-21%20021626.jpg)
 
 ###### Select Template Page
-![Select Template]()
+![Select Template](https://github.com/dexterous17/Quick-resume/blob/a3c911622795632ad3e954bc54faea18e0109cd3/Screenshot%202023-06-21%20021650.jpg)
 
 ###### Resume Builder Page
 ![Resume Building]()
 
 ###### About Page
-![About Page]()
+![About Page](https://github.com/dexterous17/Quick-resume/blob/a3c911622795632ad3e954bc54faea18e0109cd3/Screenshot%202023-06-21%20021713.jpg)
 
 ###### Dark Mode
-![Dark Mode]()
+![Dark Mode](https://github.com/dexterous17/Quick-resume/blob/a3c911622795632ad3e954bc54faea18e0109cd3/Screenshot%202023-06-21%20021731.jpg)
 
 
 
